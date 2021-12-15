@@ -2,8 +2,13 @@
     "name": "tswfi/translationtesting",
     "description": "Testing translations",
     "require": {
-        "iio/libmergepdf": "^4.0"
+        "iio/libmergepdf": "^4.0",
+        "sowbiba/translationtesting-dependency": "dev-master"
     },
+    "repositories": [
+        { "type": "vcs", "url": "https://github.com/sowbiba/translationtesting-dependency.git" }
+    ],
     "type": "prestashop-module",
-    "license": "MIT"
+    "license": "MIT",
+    "minimum-stability": "dev"
 }

@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "9a31d655ec96793f4e84cdd80292aff7",
+    "content-hash": "00ceac0ef9732ad82dfb7dc6388b2525",
     "packages": [
         {
             "name": "iio/libmergepdf",
@@ -137,6 +137,32 @@
             "time": "2021-02-11T11:37:01+00:00"
         },
         {
+            "name": "sowbiba/translationtesting-dependency",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/sowbiba/translationtesting-dependency.git",
+                "reference": "34f828e69b1f7a347989df067f40bac22becd95e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/sowbiba/translationtesting-dependency/zipball/34f828e69b1f7a347989df067f40bac22becd95e",
+                "reference": "34f828e69b1f7a347989df067f40bac22becd95e",
+                "shasum": ""
+            },
+            "default-branch": true,
+            "type": "prestashop-module",
+            "license": [
+                "MIT"
+            ],
+            "description": "Submodule for Testing translations",
+            "support": {
+                "source": "https://github.com/sowbiba/translationtesting-dependency/tree/master",
+                "issues": "https://github.com/sowbiba/translationtesting-dependency/issues"
+            },
+            "time": "2021-12-15T13:08:21+00:00"
+        },
+        {
             "name": "tecnickcom/tcpdf",
             "version": "6.4.1",
             "source": {
@@ -211,11 +237,13 @@
     ],
     "packages-dev": [],
     "aliases": [],
-    "minimum-stability": "stable",
-    "stability-flags": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "sowbiba/translationtesting-dependency": 20
+    },
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
     "platform-dev": [],
-    "plugin-api-version": "2.0.0"
+    "plugin-api-version": "2.1.0"
 }
