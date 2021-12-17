@@ -142,12 +142,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/sowbiba/translationtesting-dependency.git",
-                "reference": "34f828e69b1f7a347989df067f40bac22becd95e"
+                "reference": "314dca4a028e795638b0c059c0b403f79de4abf3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sowbiba/translationtesting-dependency/zipball/34f828e69b1f7a347989df067f40bac22becd95e",
-                "reference": "34f828e69b1f7a347989df067f40bac22becd95e",
+                "url": "https://api.github.com/repos/sowbiba/translationtesting-dependency/zipball/314dca4a028e795638b0c059c0b403f79de4abf3",
+                "reference": "314dca4a028e795638b0c059c0b403f79de4abf3",
                 "shasum": ""
             },
             "default-branch": true,
@@ -160,20 +160,20 @@
                 "source": "https://github.com/sowbiba/translationtesting-dependency/tree/master",
                 "issues": "https://github.com/sowbiba/translationtesting-dependency/issues"
             },
-            "time": "2021-12-15T13:08:21+00:00"
+            "time": "2021-12-17T10:10:56+00:00"
         },
         {
             "name": "tecnickcom/tcpdf",
-            "version": "6.4.1",
+            "version": "6.4.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/tecnickcom/TCPDF.git",
-                "reference": "5ba838befdb37ef06a16d9f716f35eb03cb1b329"
+                "reference": "172540dcbfdf8dc983bc2fe78feff48ff7ec1c76"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/tecnickcom/TCPDF/zipball/5ba838befdb37ef06a16d9f716f35eb03cb1b329",
-                "reference": "5ba838befdb37ef06a16d9f716f35eb03cb1b329",
+                "url": "https://api.github.com/repos/tecnickcom/TCPDF/zipball/172540dcbfdf8dc983bc2fe78feff48ff7ec1c76",
+                "reference": "172540dcbfdf8dc983bc2fe78feff48ff7ec1c76",
                 "shasum": ""
             },
             "require": {
@@ -224,7 +224,7 @@
             ],
             "support": {
                 "issues": "https://github.com/tecnickcom/TCPDF/issues",
-                "source": "https://github.com/tecnickcom/TCPDF/tree/6.4.1"
+                "source": "https://github.com/tecnickcom/TCPDF/tree/6.4.2"
             },
             "funding": [
                 {
@@ -232,7 +232,7 @@
                     "type": "custom"
                 }
             ],
-            "time": "2021-03-27T16:00:33+00:00"
+            "time": "2021-07-20T14:43:20+00:00"
         }
     ],
     "packages-dev": [],
